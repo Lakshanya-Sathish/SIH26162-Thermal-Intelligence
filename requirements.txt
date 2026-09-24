@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
+joblib
+Pillow==11.3.0
